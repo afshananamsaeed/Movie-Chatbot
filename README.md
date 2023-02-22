@@ -10,7 +10,7 @@ Four types of Data Sets have been used in this work:
 The Chatbot can perform five different types of tasks
 - Give answers to factual questions
 - Give embedding based answers
-- Give you multimedia ouptputs
+- Give you multimedia outputs
 - Give recommendations
 - Give crowdsource based answers whilst correcting the knowledge graph
 
